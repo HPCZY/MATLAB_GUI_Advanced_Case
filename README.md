@@ -1,7 +1,7 @@
 # MATLAB_GUI_Advanced_Case
 MATLAB GUI 进阶实例
 
-**Bilibili UP: 今天不飞了**
+**Bilibili UP: [今天不飞了](https://space.bilibili.com/330337755)**
 
 
 ## 基本介绍
