@@ -1,8 +1,9 @@
 # MATLAB_GUI_Advanced_Case
-MATLAB GUI 进阶实例
 
 **Bilibili UP: [今天不飞了](https://space.bilibili.com/330337755)**
-
+  [**如果代码对你有帮助，可以帮我点亮右上角的五角星，感谢**]
+  
+  
 
 ## 基本介绍
 MATLAB GUI进阶实例，可以直接进行套用，加速大家毕业设计GUI开发。
